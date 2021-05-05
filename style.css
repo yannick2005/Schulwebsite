@@ -1,23 +1,72 @@
-.Kontakt {font-family: 'Open Sans';
+.Kontakt       {font-family: 'Open Sans';
+                font-style: normal;
+                position: relative;
+                top: ;
+                left: 5rem;}
+
+.Kontakt2      {font-family: 'Open Sans';
+                font-style: normal;
+                position: relative;
+                top: -6rem;
+                left: 30rem;}
+
+.Kontakt_title {font-family: 'Open Sans';
+                font-sytle: normal;
+                position: relative;
+                top: 3rem;
+                left: 5rem;}
+
+.Tabellen_Titel{font-family: 'Open Sans';
+                font-style: normal;
+                position: absolute;
+                top: 32rem;
+                left: 15rem;}
+
+.table         {font-family: 'Open Sans';
+                font-style: normal;
+                position: relative;
+                top: -2rem;
+                left: 15rem;}
+
+
+
+
+
+
+.Kontakt3{font-family: 'Open Sans';
+          font-style: normal;
+          position: relative;
+          top: 6rem;
+          left: 5rem;}
+
+.Kontakt4{font-family: 'Open Sans';
           font-style: normal;
           position: relative;
           top: ;
-          left: 2rem;}
+          left: 30rem;}
 
-.Kontakt2{font-family: 'Open Sans';
+.Kontakt_title2{font-family: 'Open Sans';
+                font-style: normal;
+                position: relative;
+                top: 8rem;
+                left: 5rem;}
+
+.Tabellen_Titel2{font-family: 'Open Sans';
+               font-style: normal;
+               position: relative;
+               top: 2rem;
+               left: 15rem;}
+
+.table2{font-family: 'Open Sans';
+        font-style: normal;
+        position: relative;
+        top: 2rem;
+        left: 15rem;}
+
+
+
+.Schule  {font-family: 'Open Sans';
           font-style: normal;
           position: relative;
-          top: -7rem;
-          left: 20rem;}
-
-.table_title{font-family: 'Open Sans';
-             font-style: normal;
-             position: absolute;
-             top: 28rem;
-             left: 8rem;}
-
-.table{font-family: 'Open Sans';
-       font-style: normal;
-       position: relative;
-       top: -4rem;
-       left: 8rem;}
+          top: 40rem;
+          left: 10rem;}
