@@ -11,15 +11,15 @@
                 left: 30rem;}
 
 .Kontakt_title {font-family: 'Open Sans';
-                font-sytle: normal;
+                font-style: normal;
                 position: relative;
-                top: 3rem;
+                top: 2rem;
                 left: 5rem;}
 
 .Tabellen_Titel{font-family: 'Open Sans';
                 font-style: normal;
-                position: absolute;
-                top: 32rem;
+                position: relative;
+                top: -2rem;
                 left: 15rem;}
 
 .table         {font-family: 'Open Sans';
@@ -51,11 +51,38 @@
                 top: 8rem;
                 left: 5rem;}
 
-.Tabellen_Titel2{font-family: 'Open Sans';
+.Tabellen_title2{font-family: 'Open Sans';
                font-style: normal;
                position: relative;
-               top: 2rem;
+               top: ;
                left: 15rem;}
+
+
+
+.Kontakt5{font-family: 'Open Sans';
+           font-style: normal;
+           position: relative;
+           top: -4rem;
+           left: 5rem;}
+
+.Kontakt6{font-family: 'Open Sans';
+          font-style: normal;
+          position: relative;
+          top: -10rem;
+          left: 30rem;}
+
+.Joker{background-attachment: initial;
+       position: relative;
+       top: 9rem;
+       left: 35rem;}
+
+.Jokertage{font-family: 'Open Sans';
+           font-style: normal;
+           position: relative;
+           top: -11rem;
+           left: ;}
+
+
 
 .table2{font-family: 'Open Sans';
         font-style: normal;
@@ -70,3 +97,31 @@
           position: relative;
           top: 40rem;
           left: 10rem;}
+
+
+
+.Biz_Kloten{font-family: 'Open Sans';
+            font-style: normal;
+            position: relative;
+            top: 3rem;
+            left: 5rem;}
+
+.Yousty{font-family: 'Open Sans';
+         font-style: normal;
+         position: relative;
+         top: -4rem;
+         left: 35rem;}
+
+.Berfusberatung{font-family: 'Open Sans';
+                font-style: normal;
+                position: relative;
+                top: -10rem;
+                left: 20rem;}
+
+
+
+.Hort_Kontakt{font-family: 'Open Sans';
+              font-style: normal;
+              position: relative;
+              top: ;
+              left: 17rem;}
