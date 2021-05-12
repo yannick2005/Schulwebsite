@@ -1,7 +1,7 @@
 .Kontakt       {font-family: 'Open Sans';
                 font-style: normal;
                 position: relative;
-                top: ;
+                top: 0rem;
                 left: 5rem;}
 
 .Kontakt2      {font-family: 'Open Sans';
@@ -30,9 +30,6 @@
 
 
 
-
-
-
 .Kontakt3{font-family: 'Open Sans';
           font-style: normal;
           position: relative;
@@ -42,7 +39,7 @@
 .Kontakt4{font-family: 'Open Sans';
           font-style: normal;
           position: relative;
-          top: ;
+          top: 0rem;
           left: 30rem;}
 
 .Kontakt_title2{font-family: 'Open Sans';
@@ -54,18 +51,87 @@
 .Tabellen_title2{font-family: 'Open Sans';
                font-style: normal;
                position: relative;
-               top: ;
+               top: 0rem;
                left: 15rem;}
 
 
 
-.Kontakt5{font-family: 'Open Sans';
+.Schulzeiten{}
+
+.Kontakt_title5  {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: 2rem;
+                  left: 5rem;}
+
+.Kontakt5        {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: 0rem;
+                  left: 5rem;}
+
+.Kontakt6        {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: -6rem;
+                  left: 30rem;}
+
+.Tabellen_title5{font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: -2rem;
+                  left: 15rem;}
+
+.Tabel4         {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: 1rem;
+                  left: 5rem;}
+
+.table5          {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: 1rem;
+                  left: 5rem;}
+
+
+
+.Ferien{position: relative;
+             top: 0rem;
+             left: 10rem;}
+
+.Tabelle4{position: relative;
+          top: 2rem;
+          left: 2rem;}
+
+.Tabelle5{position: relative;
+          top: 2rem;
+          left: 2rem;}
+
+.Kontakt_title4{font-family: 'Open Sans';
+                position: relative;
+                top: 4rem;
+                left: 5rem;}
+
+.Kontakt3{font-family: 'Open Sans';
+          position: relative;
+          top: 2rem;
+          left: 5rem;}
+
+.Kontakt4{font-family: 'Open Sans';
+          position: relative;
+          top: -4rem;
+          left: 30rem;}
+
+
+
+.Kontakt7{font-family: 'Open Sans';
            font-style: normal;
            position: relative;
            top: -4rem;
            left: 5rem;}
 
-.Kontakt6{font-family: 'Open Sans';
+.Kontakt8{font-family: 'Open Sans';
           font-style: normal;
           position: relative;
           top: -10rem;
@@ -80,7 +146,37 @@
            font-style: normal;
            position: relative;
            top: -11rem;
-           left: ;}
+           left: 0rem;}
+
+
+
+.Elternrat{position: relative;
+           top: 0rem;
+           left: 14rem;}
+
+.Kontakt_title9{font-family: 'Open Sans';
+                font-style: normal;
+                position: relative;
+                top: 2rem;
+                left: 5rem;}
+
+.Kontakt9{font-family: 'Open Sans';
+          font-style: normal;
+          position: relative;
+          top: 0rem;
+          left: 5rem;}
+
+.Kontakt10{font-family: 'Open Sans';
+          font-style: normal;
+          position: relative;
+          top: -6rem;
+          left: 30rem;}
+
+.Tabellen_title9{font-family: 'Open Sans';
+                 font-style: normal;
+                 position: relative;
+                 top: -2rem;
+                 left: 15rem;}
 
 
 
@@ -100,21 +196,73 @@
 
 
 
-.Biz_Kloten{font-family: 'Open Sans';
-            font-style: normal;
-            position: relative;
-            top: 3rem;
-            left: 5rem;}
+.Schulregeln     {position: relative;
+                  top: 0rem;
+                  left: -6rem;}
 
-.Yousty{font-family: 'Open Sans';
-         font-style: normal;
-         position: relative;
-         top: -4rem;
-         left: 35rem;}
+.Kontakt_title26 {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: 2rem;
+                  left: 5rem;}
 
-.Berfusberatung{font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
+.Kontakt25       {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: 0rem;
+                  left: 5rem;}
+
+.Kontakt26       {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: -6rem;
+                  left: 30rem;}
+
+.Tabellen_title26{font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: -2rem;
+                  left: 15rem;}
+
+
+
+.Schuelerrat     {position: relative;
+                  top: 0rem;
+                  left: 10rem;}
+
+.Kontakt_title27 {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: 2rem;
+                  left: 5rem;}
+
+.Kontakt27       {font-family: 'Open Sans';
+                  position: relative;
+                  top: 0rem;
+                  left: 5rem;}
+
+.Kontakt28       {font-family: 'Open Sans';
+                  position: relative;
+                  top: -6rem;
+                  left: 30rem;}
+
+.Tabellen_title27{font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: -2rem;
+                  left: 15rem;}
+
+
+
+.Biz_Kloten    {position: relative;
+                top: 3rem;
+                left: 5rem;}
+
+.Yousty        {position: relative;
+                top: -4rem;
+                left: 35rem;}
+
+.Berfusberatung{position: relative;
                 top: -10rem;
                 left: 20rem;}
 
