@@ -39,7 +39,7 @@
 .Kontakt_u{font-family: 'Open Sans';
            font-style: normal;
            position: relative;
-           top: ;
+           top: 0rem;
            left: 5rem;}
 
 .Kontakt_u2{font-family: 'Open Sans';
@@ -84,17 +84,17 @@
 
 .Schulzeiten{}
 
-.Tabel4         {font-family: 'Open Sans';
+.Tabel4          {font-family: 'Open Sans';
                   font-style: normal;
                   position: relative;
                   top: 1rem;
-                  left: 5rem;}
+                  left: 22rem;}
 
 .table5          {font-family: 'Open Sans';
                   font-style: normal;
                   position: relative;
                   top: 1rem;
-                  left: 5rem;}
+                  left: 22rem;}
 
 .Kontakt_title5  {font-family: 'Open Sans';
                   font-style: normal;
@@ -123,8 +123,8 @@
 
 
 .Ferien{position: relative;
-             top: 0rem;
-             left: 10rem;}
+        top: 0rem;
+        left: 2rem;}
 
 .Tabelle4{position: relative;
           top: 2rem;
@@ -178,7 +178,7 @@
 
 .Elternrat{position: relative;
            top: 0rem;
-           left: 14rem;}
+           left: 2rem;}
 
 .Kontakt_title9{font-family: 'Open Sans';
                 font-style: normal;
