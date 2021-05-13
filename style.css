@@ -30,6 +30,32 @@
 
 
 
+.Kontakt_title_u{font-family: 'Open Sans';
+                 font-style: normal;
+                 position: relative;
+                 top: 2rem;
+                 left: 5rem;}
+
+.Kontakt_u{font-family: 'Open Sans';
+           font-style: normal;
+           position: relative;
+           top: ;
+           left: 5rem;}
+
+.Kontakt_u2{font-family: 'Open Sans';
+            font-style: normal;
+            position: relative;
+            top: -6rem;
+            left: 30rem;}
+
+.Tabellen_title_u{font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: -2rem;
+                  left: 15rem;}
+
+
+
 .Kontakt3{font-family: 'Open Sans';
           font-style: normal;
           position: relative;
@@ -58,6 +84,18 @@
 
 .Schulzeiten{}
 
+.Tabel4         {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: 1rem;
+                  left: 5rem;}
+
+.table5          {font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: 1rem;
+                  left: 5rem;}
+
 .Kontakt_title5  {font-family: 'Open Sans';
                   font-style: normal;
                   position: relative;
@@ -81,18 +119,6 @@
                   position: relative;
                   top: -2rem;
                   left: 15rem;}
-
-.Tabel4         {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: 1rem;
-                  left: 5rem;}
-
-.table5          {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: 1rem;
-                  left: 5rem;}
 
 
 
