@@ -30,55 +30,29 @@
 
 
 
-.Kontakt_title_u{font-family: 'Open Sans';
-                 font-style: normal;
-                 position: relative;
-                 top: 2rem;
-                 left: 5rem;}
+.Aktuelles{}
 
-.Kontakt_u{font-family: 'Open Sans';
-           font-style: normal;
-           position: relative;
-           top: 0rem;
-           left: 5rem;}
+.Aktuelles_BAG{position: relative;
+               top: -12rem;
+               left: 25rem;}
 
-.Kontakt_u2{font-family: 'Open Sans';
-            font-style: normal;
-            position: relative;
-            top: -6rem;
-            left: 30rem;}
-
-.Tabellen_title_u{font-family: 'Open Sans';
+.Kontakt_title5{font-family: 'Open Sans';
                   font-style: normal;
                   position: relative;
-                  top: -2rem;
-                  left: 15rem;}
+                  top: -8rem;
+                  left: 5rem;}
 
+.Kontakt5{font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: -10rem;
+                  left: 5rem;}
 
-
-.Kontakt3{font-family: 'Open Sans';
-          font-style: normal;
-          position: relative;
-          top: 6rem;
-          left: 5rem;}
-
-.Kontakt4{font-family: 'Open Sans';
-          font-style: normal;
-          position: relative;
-          top: 0rem;
-          left: 30rem;}
-
-.Kontakt_title2{font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
-                top: 8rem;
-                left: 5rem;}
-
-.Tabellen_title2{font-family: 'Open Sans';
-               font-style: normal;
-               position: relative;
-               top: 0rem;
-               left: 15rem;}
+.Kontakt6{font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: -16rem;
+                  left: 30rem;}
 
 
 
@@ -96,30 +70,6 @@
                   top: 1rem;
                   left: 22rem;}
 
-.Kontakt_title5  {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: 2rem;
-                  left: 5rem;}
-
-.Kontakt5        {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: 0rem;
-                  left: 5rem;}
-
-.Kontakt6        {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: -6rem;
-                  left: 30rem;}
-
-.Tabellen_title5{font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: -2rem;
-                  left: 15rem;}
-
 
 
 .Ferien{position: relative;
@@ -134,34 +84,7 @@
           top: 2rem;
           left: 2rem;}
 
-.Kontakt_title4{font-family: 'Open Sans';
-                position: relative;
-                top: 4rem;
-                left: 5rem;}
 
-.Kontakt3{font-family: 'Open Sans';
-          position: relative;
-          top: 2rem;
-          left: 5rem;}
-
-.Kontakt4{font-family: 'Open Sans';
-          position: relative;
-          top: -4rem;
-          left: 30rem;}
-
-
-
-.Kontakt7{font-family: 'Open Sans';
-           font-style: normal;
-           position: relative;
-           top: -4rem;
-           left: 5rem;}
-
-.Kontakt8{font-family: 'Open Sans';
-          font-style: normal;
-          position: relative;
-          top: -10rem;
-          left: 30rem;}
 
 .Joker{background-attachment: initial;
        position: relative;
@@ -179,30 +102,6 @@
 .Elternrat{position: relative;
            top: 0rem;
            left: 2rem;}
-
-.Kontakt_title9{font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
-                top: 2rem;
-                left: 5rem;}
-
-.Kontakt9{font-family: 'Open Sans';
-          font-style: normal;
-          position: relative;
-          top: 0rem;
-          left: 5rem;}
-
-.Kontakt10{font-family: 'Open Sans';
-          font-style: normal;
-          position: relative;
-          top: -6rem;
-          left: 30rem;}
-
-.Tabellen_title9{font-family: 'Open Sans';
-                 font-style: normal;
-                 position: relative;
-                 top: -2rem;
-                 left: 15rem;}
 
 
 
@@ -226,57 +125,11 @@
                   top: 0rem;
                   left: -6rem;}
 
-.Kontakt_title26 {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: 2rem;
-                  left: 5rem;}
-
-.Kontakt25       {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: 0rem;
-                  left: 5rem;}
-
-.Kontakt26       {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: -6rem;
-                  left: 30rem;}
-
-.Tabellen_title26{font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: -2rem;
-                  left: 15rem;}
-
 
 
 .Schuelerrat     {position: relative;
                   top: 0rem;
                   left: 10rem;}
-
-.Kontakt_title27 {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: 2rem;
-                  left: 5rem;}
-
-.Kontakt27       {font-family: 'Open Sans';
-                  position: relative;
-                  top: 0rem;
-                  left: 5rem;}
-
-.Kontakt28       {font-family: 'Open Sans';
-                  position: relative;
-                  top: -6rem;
-                  left: 30rem;}
-
-.Tabellen_title27{font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: -2rem;
-                  left: 15rem;}
 
 
 
@@ -297,5 +150,61 @@
 .Hort_Kontakt{font-family: 'Open Sans';
               font-style: normal;
               position: relative;
-              top: ;
+              top: 0rem;
               left: 17rem;}
+
+
+
+.Schulhaus{font-family: 'Open Sans';
+           font-style: normal;
+           position: relative;
+           top: 0rem;
+           left: 2rem;}
+
+.Adresse{font-family: 'Open Sans';
+         font-style: normal;
+         position: relative;
+         top: -2.5rem;
+         left: 20rem;}
+
+.Klassenlehrperson{font-family: 'Open Sans';
+                  font-style: normal;
+                  position: relative;
+                  top: -2rem;
+                  left: 2rem;}
+
+.Mail{font-family: 'Open Sans';
+         font-style: normal;
+         position: relative;
+         top: -6rem;
+         left: 20rem;}
+
+.Namen{font-family: 'Open Sans';
+         font-style: normal;
+         position: relative;
+         top: -4rem;
+         left: 2rem;}
+
+.Telefonnummern{font-family: 'Open Sans';
+                font-style: normal;
+                position: relative;
+                top: -15.5rem;
+                left: 20rem;}
+
+.Kontakt_title2{font-family: 'Open Sans';
+                font-style: normal;
+                position: relative;
+                top: -3rem;
+                left: 5rem;}
+
+.Kontakt3{font-family: 'Open Sans';
+         font-style: normal;
+         position: relative;
+         top: -5rem;
+         left: 5rem;}
+
+.Kontakt4{font-family: 'Open Sans';
+         font-style: normal;
+         position: relative;
+         top: -11rem;
+         left: 30rem;}
