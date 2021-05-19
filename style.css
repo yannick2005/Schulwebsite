@@ -1,211 +1,219 @@
-.Kontakt       {font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
-                top: 0rem;
-                left: 5rem;}
+.kontakt
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;}
 
-.Kontakt2      {font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
-                top: -6rem;
-                left: 30rem;}
+.title
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   margin-top: 2rem}
 
-.Kontakt_title {font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
-                top: 2rem;
-                left: 5rem;}
-
-.Tabellen_Titel{font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
-                top: -2rem;
-                left: 15rem;}
-
-.table         {font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
-                top: -2rem;
-                left: 15rem;}
+.table
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;}
 
 
 
 .Aktuelles{}
 
-.Aktuelles_BAG{position: relative;
-               top: -12rem;
-               left: 25rem;}
+.Aktuelles_BAG
+  {position: relative;
+   top: rem;
+   left: rem;}
 
-.Kontakt_title5{font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: -8rem;
-                  left: 5rem;}
+.Kontakt_title5
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -8rem;
+   left: 5rem;}
 
-.Kontakt5{font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: -10rem;
-                  left: 5rem;}
+.Kontakt5
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -10rem;
+   left: 5rem;}
 
-.Kontakt6{font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: -16rem;
-                  left: 30rem;}
+.Kontakt6
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -16rem;
+   left: 30rem;}
 
 
 
 .Schulzeiten{}
 
-.Tabel4          {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: 1rem;
-                  left: 22rem;}
+.Tabel4
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: 1rem;
+   eft: 22rem;}
 
-.table5          {font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: 1rem;
-                  left: 22rem;}
-
-
-
-.Ferien{position: relative;
-        top: 0rem;
-        left: 2rem;}
-
-.Tabelle4{position: relative;
-          top: 2rem;
-          left: 2rem;}
-
-.Tabelle5{position: relative;
-          top: 2rem;
-          left: 2rem;}
+.table5
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: 1rem;
+   left: 22rem;}
 
 
 
-.Joker{background-attachment: initial;
-       position: relative;
-       top: 9rem;
-       left: 35rem;}
+.Ferien
+  {position: relative;
+   top: 0rem;
+   left: 2rem;}
 
-.Jokertage{font-family: 'Open Sans';
-           font-style: normal;
-           position: relative;
-           top: -11rem;
-           left: 0rem;}
+.Tabelle4
+  {position: relative;
+   top: 2rem;
+   left: 2rem;}
 
-
-
-.Elternrat{position: relative;
-           top: 0rem;
-           left: 2rem;}
+.Tabelle5
+  {position: relative;
+   top: 2rem;
+   left: 2rem;}
 
 
 
-.table2{font-family: 'Open Sans';
-        font-style: normal;
-        position: relative;
-        top: 2rem;
-        left: 15rem;}
+.Joker
+  {background-attachment: initial;
+   position: relative;
+   top: 9rem;
+   left: 35rem;}
+
+.Jokertage
+  {font-family: 'Open Sans';
+   font-style: normal
+   position: relative;
+   top: -11rem;
+   left: 0rem;}
 
 
 
-.Schule  {font-family: 'Open Sans';
-          font-style: normal;
-          position: relative;
-          top: 40rem;
-          left: 10rem;}
+.Elternrat
+  {position: relative;
+   top: 0rem;
+   left: 2rem;}
 
 
 
-.Schulregeln     {position: relative;
-                  top: 0rem;
-                  left: -6rem;}
+.table2
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: 2rem;
+   left: 15rem;}
 
 
 
-.Schuelerrat     {position: relative;
-                  top: 0rem;
-                  left: 10rem;}
+.Schule
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: 40rem;
+   left: 10rem;}
 
 
 
-.Biz_Kloten    {position: relative;
-                top: 3rem;
-                left: 5rem;}
-
-.Yousty        {position: relative;
-                top: -4rem;
-                left: 35rem;}
-
-.Berfusberatung{position: relative;
-                top: -10rem;
-                left: 20rem;}
+.Schulregeln
+  {position: relative;
+   top: 0rem;
+   left: -6rem;}
 
 
 
-.Hort_Kontakt{font-family: 'Open Sans';
-              font-style: normal;
-              position: relative;
-              top: 0rem;
-              left: 17rem;}
+.Schuelerrat
+  {position: relative;
+   top: 0rem;
+   left: 10rem;}
 
 
 
-.Schulhaus{font-family: 'Open Sans';
-           font-style: normal;
-           position: relative;
-           top: 0rem;
-           left: 2rem;}
+.Biz_Kloten
+  {position: relative;;}
 
-.Adresse{font-family: 'Open Sans';
-         font-style: normal;
-         position: relative;
-         top: -2.5rem;
-         left: 20rem;}
+.Yousty
+  {position: relative;}
 
-.Klassenlehrperson{font-family: 'Open Sans';
-                  font-style: normal;
-                  position: relative;
-                  top: -2rem;
-                  left: 2rem;}
+.Berfusberatung
+  {position: relative;}
 
-.Mail{font-family: 'Open Sans';
-         font-style: normal;
-         position: relative;
-         top: -6rem;
-         left: 20rem;}
 
-.Namen{font-family: 'Open Sans';
-         font-style: normal;
-         position: relative;
-         top: -4rem;
-         left: 2rem;}
 
-.Telefonnummern{font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
-                top: -15.5rem;
-                left: 20rem;}
+.Hort_Kontakt
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: 0rem;
+   left: 17rem;}
 
-.Kontakt_title2{font-family: 'Open Sans';
-                font-style: normal;
-                position: relative;
-                top: -3rem;
-                left: 5rem;}
 
-.Kontakt3{font-family: 'Open Sans';
-         font-style: normal;
-         position: relative;
-         top: -5rem;
-         left: 5rem;}
 
-.Kontakt4{font-family: 'Open Sans';
-         font-style: normal;
-         position: relative;
-         top: -11rem;
-         left: 30rem;}
+.Schulhaus
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: 0rem;
+   left: 2rem;}
 
+.Adresse
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -2.5rem;
+   left: 20rem;}
+
+.Klassenlehrperson
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -2rem;
+   left: 2rem;}
+
+.Mail
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -6rem;
+   left: 20rem;}
+
+.Namen
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -4rem;
+   left: 2rem;}
+
+.Telefonnummern
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -15.5rem;
+   left: 20rem;}
+
+.Kontakt_title2
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -3rem;
+   left: 5rem;}
+
+.Kontakt3
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -5rem;
+   left: 5rem;}
+
+.Kontakt4
+  {font-family: 'Open Sans';
+   font-style: normal;
+   position: relative;
+   top: -11rem;
+   left: 30rem;}
