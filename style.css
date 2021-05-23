@@ -14,71 +14,34 @@
    font-style: normal;
    position: relative;}
 
-
-
-.Aktuelles{}
-
-.Aktuelles_BAG
-  {position: relative;
-   top: rem;
-   left: rem;}
-
 .Kontakt_title5
   {font-family: 'Open Sans';
    font-style: normal;
-   position: relative;
-   top: -8rem;
-   left: 5rem;}
+   position: relative;}
 
 .Kontakt5
   {font-family: 'Open Sans';
    font-style: normal;
-   position: relative;
-   top: -10rem;
-   left: 5rem;}
+   position: relative;}
 
 .Kontakt6
   {font-family: 'Open Sans';
    font-style: normal;
-   position: relative;
-   top: -16rem;
-   left: 30rem;}
-
-.Elternrat
-  {position: relative;
-   top: 0rem;
-   left: 2rem;}
-
+   position: relative;;}
 
 
 .table2
   {font-family: 'Open Sans';
    font-style: normal;
-   position: relative;
-   top: 2rem;
-   left: 15rem;}
+   position: relative;}
 
 
 
 .Schule
   {font-family: 'Open Sans';
    font-style: normal;
-   position: relative;
-   top: 40rem;
-   left: 10rem;}
+   position: relative;}
 
-
-
-.Schulregeln
-  {position: relative;
-   top: 0rem;
-   left: -6rem;}
-
-
-
-.Schuelerrat
-  {position: relative;
-   top: 0rem;
-   left: 10rem;}
-
-
+.Schulrat
+ {font-family: 'Open Sans';
+  font style: normal;}
